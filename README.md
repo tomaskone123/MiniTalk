@@ -1,6 +1,3 @@
-Here's the updated `README.md` with the instructions for running the server and client in two different terminals:
-
-```markdown
 # MiniTalk
 
 MiniTalk is a simple project that demonstrates communication between two programs using signals. The project consists of a server and a client, which communicate by sending and receiving data through UNIX signals.
@@ -56,6 +53,3 @@ Where:
 
 **Important:** Make sure to run the server and client in **two separate terminals**. The server must be running first to receive the signals from the client.
 
-
-
-Now the README includes clear instructions to run both the server and client in separate terminals.
